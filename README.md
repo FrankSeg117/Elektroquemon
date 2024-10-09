@@ -1,4 +1,4 @@
-## Elektroquemón Project: Evolution-Based Game Using Logic Circuits
+## Elektroquemón Project: Evolution-Based Game Using Logic Circuits, made in Logisim
 
 This project involves designing and implementing a logic circuit that emulates the game Elektroquemón, developed in Logisim. The objective of the game is for the player to evolve from a primitive animal (Amoeba) to a more advanced one (Colobo) by attempting to stop a counter at the number 7 before it reaches 12. Depending on the difference between 7 and the number at which the counter stops, the player either advances to the next level or moves back.
 
