@@ -7,3 +7,6 @@ The project utilizes Flip-Flops and Finite State Machines (FSM) to manage the ga
 
 ## Objective and Outcomes
 This project strengthened understanding in the theory and practice of FSMs and Flip-Flops, allowing for the application of sequential and combinational design concepts in an interactive game context.
+
+## How to View the Circuit
+To view the circuit, download Logisim from CurseForge or use the attached executable above. Then, open the ElektroquemonCirc file in Logisim.
